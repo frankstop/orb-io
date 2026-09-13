@@ -2,7 +2,7 @@
 
 A fast, neon-lit arena game built entirely in one HTML file. Grow your orb by absorbing pellets and rival cells, split to attack, eject mass strategically, and climb the live leaderboard.
 
-**[Play Orb.io](https://frankstop.github.io/orb-io/)**
+**[Play Orb.io](https://frankiejvaldez.com/orb-io/)**
 
 ## Features
 
